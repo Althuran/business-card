@@ -2,7 +2,6 @@
 body {
     margin: 0;
     font-family: 'Trajan Pro', 'Segoe UI', serif;
-    background: url('https://i.imgur.com/ZYwD6yT.jpg') center/cover no-repeat fixed;
     display: flex;
     justify-content: center;
     align-items: center;
