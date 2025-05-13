@@ -13,6 +13,7 @@ body {
 /* ===== WARRIOR'S CARD ===== */
 .card {
     width: 500px;
+    height: 250px;
     margin: 40px auto 0;
     padding: 60px 30px 30px;
     display: flex;
